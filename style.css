@@ -23,7 +23,7 @@ footer a:hover {
 
 body.dark-mode {
     background-color: rgba(18, 18, 18, 0.853);
-    color: #28302a;
+    color: #fff;
 }
 
 .dark-mode {
@@ -33,7 +33,7 @@ body.dark-mode {
 .dark-mode btn {
     display: flex;
     background-color: rgb(44, 62, 80);
-    color: white;
+    color: #fff;
     border-radius: 150px;
 }
 
