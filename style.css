@@ -26,6 +26,10 @@ body.dark-mode {
     color: #fff;
 }
 
+header {
+    padding-top: 80px;
+}
+
 .dark-mode-btn-container {
     position: absolute;
     top: 20px;
