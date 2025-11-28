@@ -27,6 +27,7 @@ body.dark-mode {
 }
 
 .dark-mode {
+    position: absolute;
     margin-top: 20px;
 }
 
