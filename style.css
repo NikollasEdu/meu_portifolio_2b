@@ -26,18 +26,26 @@ body.dark-mode {
     color: #fff;
 }
 
-.dark-mode {
+.dark-mode-btn-container {
     position: absolute;
     top: 20px;
     left: 20px;
     margin-top: 20px;
 }
 
-.dark-mode btn {
-    display: flex;
+#dark-mode-toggle {
     background-color: rgb(44, 62, 80);
     color: #fff;
-    border-radius: 150px;
+    border: none;
+    padding: 6px 16px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+
+#dark-mode-toggle:hover {
+    background-color: #fff;
+    color: rgb(44, 62, 80);
 }
 
 .dark-mode-btn:hover {
