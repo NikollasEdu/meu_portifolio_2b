@@ -28,6 +28,8 @@ body.dark-mode {
 
 .dark-mode {
     position: absolute;
+    top: 20px;
+    left: 20px;
     margin-top: 20px;
 }
 
